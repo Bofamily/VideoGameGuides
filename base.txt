@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Game Guides</title>
+      <link rel="stylesheet" href="stylesheet.css">
+      <link rel="icon" type="image/x-icon" href="home.png">
+</head>
+<body>
+    <nav>
+    <a href="index.html" id="infolink"><img id="navimg" src="home.png">Home</a>
+    <a href="info.html" id="infolink"><img id="navimg" src="infobutton16x16.png">Information</a>
+    <a href="contact.html" id="infolink"><img id="navimg" src="infobutton16x16.png">Contact Us</a>
+    </nav>
+    
+    <main>
+    </main>
+</body>
+</html>
